@@ -1,15 +1,11 @@
 /* Pc */
-@media (min-width:1200px) {
+@media (min-width:992px) {
     html {
         font-size: 55%;
     }
 
     .home {
         padding: 1rem 4rem;
-    }
-    
-    .education .box-container .box {
-        width: 20vw;
     }
 }
 
